@@ -1,188 +1,159 @@
-## 개인 정보
+### 기본정보
+- 강해석
+- 010-5231-1994
+- bloodturtle@naver.com
+- https://kez1994.tistory.com
+- https://github.com/hotbloodturtle
 
-###### 기본정보
 
-| Photo                                                                | Future             |
-| -------------------------------------------------------------------- | ------------------ |
-| ![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg) 
-| Name                                                                 | 홍길동             |
-| - Chinese                                                            | 金良洹             |
-| - English                                                            | Rhio Kim           |
-| Age                                                                  | 20                 |
-| Birth Day                                                            | YYYY.MM.DD         |
-| Email                                                                | my.email@gmail.com |
-| Mobile                                                               | xxx-xxxx-xxxx      |
 
-###### 기본정보
+---
 
-| Profile    | Content                                       |
-| ---------- | --------------------------------------------- |
-| Name       | 강해석                                        |
-| Birth Day       | 강해석                                        |
-| Name       | 강해석                                        |
-| Address    | 서울 강남구 역삼동 123-12 아파트 304층 3041호 |
-| Mobile     | xxx-xxxx-xxxx                                 |
-| Married    | 기혼 or 미혼                                  |
-| Family     | 1남 2녀                                       |
-| Blood type | RH+ A                                         |
-| Religion   | 없음                                          |
 
-###### 학력정보
 
-| Level       | School Name    | Major            | Start   | End     | Status    | 최종학력 |
-| ----------- | -------------- | ---------------- | ------- | ------- | --------- | -------- |
-| University  | xx University  | Computer Science | YYYY.MM | YYYY.MM | graduated | 최종     |
-| High School | xx High School |                  | YYYY.MM | YYYY.MM | graduated |
+### 간략한 자기소개
 
-### 직장이력
+개발자 강해석입니다. 신뢰할 수 있는 task 수행, 경험에 대한 겸손과 존중을 지향합니다.
 
-| Period           | Company      | Part > Team          |
-| ---------------- | ------------ | -------------------- |
-| 2011.10 - 2013.4 | Company Inc  | R&D > Mobile         |
-| 2010.05 - 2011.9 | Company Corp | Big Data > Visualize |
-| 2008.08 - 2010.3 | Venture      | Web > UI             |
-| 2007.02 - 2008.8 | Company Name | Marketing 3          |
 
-## 오픈소스 프로젝트 <small>(2012.03 ~ 현재)</small>
 
-- 프로젝트 공식 명칭
+---
 
-  - 소개
 
-    > 프로젝트에 대한 간략한 소개를 한다.
 
-  - 주요기능
 
-    > - 주요 기능을 일일이 상세히 나열한다.
+### 개발자로서 중요하게 생각하는 것
+- 철저한 데드라인
+- 안정적인 서비스 배포 및 운영
+- 최소한의 데이터베이스 자원 사용
+- 효율적인 개발 환경의 구축
+- 반복적인 루틴에 대한 자동화
+- 이유있는 코딩
 
-  - 사용기술
 
-    > - 사용된 기술을 상세히 나열한다.
 
-  - 개발기간 : 2013.2.3 을 시작으로 최근까지 [xxx 커밋](https://github.com/rhiokim/resume/commits/master)
-  - 공식 사이트 - [http://rhiokim.github.io/resume](http://rhiokim.github.io/resume)
-  - 소스 저장소 - [https://github.com/rhiokim/resume](https://github.com/rhiokim/resume)
+---
 
-- 마크다운 이력서 표준화 프로젝트
 
-  - 소개
 
-    > 이력서에 대한 몇가지 불편한 마음을 개선하고자 마크다운 이력서 표준화 프로젝트를 시작한다.
-    >
-    > 1. 개발자를 잘 표현할 이력서 양식이 없다.
-    > 2. 2,3 년에 한번씩 업데이트 해야하는 이력서 너무 힘들다.
-    > 3. 이력서 양식이 도구에 너무 의존적이다.
+### 이력
 
-  - 주요기능
 
-    > - 마크다운으로 기술한다.
-    > - PDF, HTML, EPUB, Mobi 등 다양한 포맷으로 변환할 수 있다.
-    > - 개발자를 잘 표현할 수 있다.
 
-  - 사용기술
+##### (주)펫닥
 
-    > 마크다운.
+  - 2018.06 ~
+  - 개발팀 매니저
+  - 서버 담당
 
-  - 개발기간 : 2012.3 을 시작으로 약 6개월에 걸쳐 500여 커밋
-  - 공헌자 : [https://github.com/rhiokim/resume/contributors](https://github.com/rhiokim/resume/contributors)
-  - 공식 사이트 - [http://rhiokim.github.io/resume](http://rhiokim.github.io/resume)
-  - 소스 저장소 - [https://github.com/rhiokim/resume](https://github.com/rhiokim/resume)
 
-### 기타 공개/비공개 프로젝트
 
-- 프로젝트 명
+##### (주)바이플러그
 
-  > - 추가 설명 : https://vimeo.com/51812784
+  - 2017.12 ~ 2018.4 (5개월)
+  - 개발팀 주임연구원
+  - 서버 및 웹프론트 담당
 
-### 진행중인 프로젝트 <small>(2013.04 ~ 현재)</small>
 
-- 프로젝트 명
-  - 소개
 
-    > 모바일 앱으로 현재 3명의 멤버가 개발 진행 중
+##### (주)영우씨엔아이
 
-  - 사용기술
+  - 2016.7 ~ 2017.12 (1년 6개월)
+  - 웹개발팀 팀장
+  - 웹서비스 총괄
 
-    > Node.js, Mongodb, APNS(Apple Notification), Gumby2 (Responsive CSS Framework)
 
-  - 역할
 
-    > RESTful API 디자인, 시스템(Node.js, Mongodb, APNS) 엔지니어링, 웹 사이트 개발
+##### (주)하루소프트
 
-## 참여한 프로젝트 이력
+  - 2015.12 ~ 2016.7 (8개월)
 
-#### 회사명 1
+  - 개발팀 사원
 
-- 프로젝트
-  - 소개
+  - 서버 담당
 
-    > 프로젝트에 대한 간략한 소개를 한다.
 
-  - 역할
 
-    > - 자기가 참여한 프로젝트에서 했던 역할에 대해서 기술한다.
+---
 
-  - 사용기술
 
-    > - Backbone.js, jQuery, require.js, grunt.js, twitter bootstrap, Node.js 등
 
-  - 개발기간: 12개월
-  - 공식 사이트: https://project.com
-  - 소스 저장소: https://github.com/company/project
+### 프로젝트
 
-#### 회사명 2
+##### 펫닥 맞춤사료
+ - 반려동물 데이터 기반 사료 추천 시스템
+ - 프로젝트 리드 개발
+ - 개발환경 : java, spring boot, jquery
+ - 배포환경 : aws ec2, elb
+ - 회고
+   - 개발 프로젝트를 진행함에 있어서 기획서를 빨리 분석하고 설계하는 단계가 얼마나 중요한것인지 느꼈던 프로젝트 입니다. 코드 작성보다 커뮤니케이션, 기획 분석쪽에 시간을 쏟아서 추후 개발 작업이 촉박하긴했지만 전반적인 서비스를 구현함에 좋은 경험이 되었습니다.
+   - 서버인스턴스, 로드밸런서 무중단배포를 직접 구현하였고 vpc 서브넷으로 각 서버들의 접근 영역을 명확하게 나눴습니다. jenkins서버를 직접 구축하면서 배포자동화를 구성하였고 MSA의 기본적인 부분을 경험했습니다.
 
-- 프로젝트
-  - 소개
 
-    > 프로젝트에 대한 간략한 소개를 한다.
 
-  - 역할
 
-    > - 자기가 참여한 프로젝트에서 했던 역할에 대해서 기술한다.
+##### 펫닥 웹서비스
 
-  - 사용기술
+ - 반려동물 토탈케어서비스 펫닥 어플리케이션 웹버전
+ - 웹서버, 웹프론트 개발
+ - 개발환경 : java, spring boot, jquery
+ - 배포환경 : aws ec2, API Gateway
+ - 회고
+   - 기존 레거시 서버의 api 엔드포인트 일부를 새로운 서버로 옮기는 작업을 진행했습니다. 매번 앱을 업데이트하기란 불가능했기에 API Gateway를 통해 유연하게 api 이전 작업을 진행했습니다.
+   - java로 진행했던 첫 프로젝트이며 개발할 때 특정 언어와 프레임워크가 서비스를 결정짓는 요소가 아니란 것을 경험했습니다. 오히려 그동안 python으로 개발 할 때와 비교해보며 스크립트와 컴파일 언어의 차이를 실제 경험으로 느끼게 되었고 신기하게도 오히려 python에 대한 좀 더 깊은 이해가 되는 부분을 경험했습니다.
+   - 또힌 자바스크립트에 대한 반성을 느끼게 해준 프로젝트 입니다. 단순히 동작하는것을 넘어서 최소한의 메모리 활용을 위한 코드를 작성하고 오류를 최소한으로 방지하는 코드 작성의 경험이 되었습니다.
 
-    > - Backbone.js, jQuery, require.js, grunt.js, twitter bootstrap, Node.js 등
 
-  - 개발기간: 6개월
-  - 공식 사이트: https://project.com
-  - 소스 저장소: https://github.com/company/project
 
-## 대외 활동 내역
+##### 펫닥 서버 고도화
 
-#### 커뮤니티
+ - 반려동물 토탈케어서비스 펫닥 어플리케이션 서버 개선
+ - 서버 및 운영 배포 개선
+ - 개발환경 : python, django
+ - 배포환경 : aws elastic beanstalk, docker
+ - 회고
+   - 그동안 개발하며 쌓여왔던 기술부채를 갚는 시간이었습니다. 최우선적으로 ORM의 쿼리 최적화를 진행하였고 캐시를 도입해 상당 부분의 서비스 속도와 부하를 개선했습니다. 또한 각 기능에 대한 유닛테스트를 구성하였으며 jenkins를 활용해서 테스트 자동화를 적용했습니다. 이후로 반복되는 코드제거 및 타입을 표시한 변수 이름 선언등 가능한 명확한 코드를 작성하는데 시간을 기울였습니다.
 
-| 커뮤니티명 | 주제  | 관련 참고 자료            |
-| ---------- | ----- | ------------------------- |
-| 2010.05    | Title | http://slidesha.re/xxxxxx |
-| 2010.10    | Title | http://scr.bi/xxxxxxx     |
 
-#### 세미나
 
-| 행사 / 모임   | 주제         | 규모                 | 관련 참고 자료       |
-| ------------- | ------------ | -------------------- | -------------------- |
-| XX R&D Campus | 1. subject 1 | 30                   | http://bit.ly/xxxxxx |
-| 2. subject 2  |              | http://bit.ly/xxxxxx |
+##### 펫닥 1차 리뉴얼
 
-#### 컨퍼런스, 강연
+ - 반려동물 토탈케어서비스 펫닥 어플리케이션 서버 구성
+ - 서버 및 운영 배포 구현
+ - 개발환경 : python, django
+ - 배포환경 : aws elastic beanstalk, docker
+ - 회고
+   - 처음 진행했던 모바일 서비스의 서버 구축 프로젝트였습니다. 웹이랑 다르게 푸시알림, 업데이트 여부, 다양한 디바이스에 대한 문제 등등 프론트를 위해 최대한 서버가 지원해줘야 하는 부분을 경험했습니다. 기존 데이터베이스의 마이그레이션 및 새로운 DB 설계를 참여했고 전반적인 서버 api를 담당하였습니다. 다만 기존 레거시 프로젝트와 새로운 프로젝트를 한순간에 스왑했기 때문에 초반 장애부분이 잦았고 대처가 늦었던게 아쉽습니다.
 
-| 행사 / 모임 | 주제  | 규모  | 관련 참고 자료       |
-| ----------- | ----- | ----- | -------------------- |
-| Conference  | Title | 250   | http://bit.ly/xxxxxx |
-| Conference  | Title | 1,000 | http://bit.ly/xxxxxx |
 
-## 소셜
 
-| Site     | URL                            |
-| -------- | ------------------------------ |
-| Github   | https://github.com/{account}   |
-| Twitter  | https://twitter.com/{account}  |
-| Facebook | https://facebook.com/{account} |
+##### 서울수의사회
 
-## <br><br>
+ - 서울수의사회 웹페이지 구축
+ - 웹사이트 전반 담당, 결제 기능 구현
+ - 개발환경 : python, django, jquery, html, css
+ - 배포환경 : aws elastic beanstalk
+ - 회고
+   - 웹사이트 전반을 담당하였습니다. 아임포트를 활용한 결제기능을 도입하였고 소규모 프로젝트였기 때문에 마크업도 담당하였습니다.
 
-위의 사실은 GNU 정신에 의거하여 사실임을 증명하며, 만약 사실이 아닐 경우 MIT 라이센스로 공개해도 무방합니다.
 
-YYYY년 MM월 DD일
-{홍길동}
+
+##### fadein
+
+ - 목표관리 모바일 웹서비스 fadein 구축
+ - 서비스 전체 개발 (마크업 제외)
+ - 개발환경 : python, django, angular
+ - 배포환경 : aws ec2
+ - 회고
+   - 처음 경험한 프론트 프레임워크를 활용한 프로젝트였습니다.
+
+
+
+##### webtex3d, little smart, elite
+
+ - 의상 시뮬레이션 및 코디 서비스 구축
+ - 프로젝트 총괄
+ - 개발환경 : python, django, jquery
+ - 배포환경 : windows 물리서버
+ - 회고
+   - django를 활용한 첫 웹사이트 구축이었습니다. 기본적인 django 기능을 도입하였고 jquery를 활용한 프론트 구성을 진행했습니다. 소규모 사내 웹서비스였으며 물리서버를 통한 배포를 진행했습니다.
