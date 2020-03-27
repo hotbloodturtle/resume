@@ -1,19 +1,20 @@
 
 ### 강해석
 ---
-CAREER         4년 (2016~)
 
-BIRTH            1987.12.21
+CAREER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4년 (2016~)
 
-ADDRESS      서울시 금천구 독산동 한신아파트 8동 204호
+BIRTH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1987.12.21
 
-PHONE          010-5231-1994
+ADDRESS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서울시 금천구 독산동 한신아파트 8동 204호
 
-EMAIL            bloodturtle@naver.com
+PHONE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;010-5231-1994
 
-BLOG             https://kez1994.tistory.com
+EMAIL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bloodturtle@naver.com
 
-GITHUB         https://github.com/hotbloodturtle
+BLOG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://kez1994.tistory.com
+
+GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/hotbloodturtle
 
 
 
@@ -56,13 +57,13 @@ GITHUB         https://github.com/hotbloodturtle
 
 ### 경력 요약
 
-2018.06 ~ 현재                   펫닥                           R&D 센터 개발팀 / 매니저
+2018.06 ~ 현재&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;펫닥&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R&D 센터 개발팀 / 매니저
 
-2017.12 ~ 2018.04           바이플러그                 부설기술연구소 / 주임연구원
+2017.12 ~ 2018.04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;바이플러그&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;부설기술연구소 / 주임연구원
 
-2016.07 ~ 2017.12           영우씨엔아이              부설기술연구소 / 사원
+2016.07 ~ 2017.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;영우씨엔아이&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;부설기술연구소 / 사원
 
-2015.12 ~ 2016.07           하루소프트                 개발팀 / 사원
+2015.12 ~ 2016.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;하루소프트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;개발팀 / 사원
 
 
 
@@ -70,7 +71,7 @@ GITHUB         https://github.com/hotbloodturtle
 
 ### 학력 사항
 
-2006 ~ 2013    가톨릭대학교 미디어콘텐츠기술 학사 전공
+2006 ~ 2013&nbsp;&nbsp;&nbsp;&nbsp;가톨릭대학교 미디어콘텐츠기술 학사 전공
 
 
 
@@ -165,7 +166,7 @@ GITHUB         https://github.com/hotbloodturtle
 서울수의사회 소개 및 교육신청 관리 웹서비스
 
 - 주요 업무
-  - 웹구축 전반 
+  - 웹구축 전반
 
  - 개발환경
     - python, django, postgresql,  jquery, html, css
