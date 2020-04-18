@@ -96,9 +96,11 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
  - 배포환경
     - aws ec2, elb, rds
  - 주요 성과
-    - 서버인스턴스, 로드밸런서 무중단배포를 직접 구현하였고 vpc 서브넷으로 각 서버들의 접근 영역을 명확하게 나눴습니다. jenkins서버를 직접 구축하면서 배포자동화를 구성하였고 인증api서버, 인증웹서버, 서비스 api서버, app서버, 웹서버, jenkins 및 터미널서버 등 기능에 따른 서버를 분리한 MSA의 기본적인 부분을 경험했습니다.
-    - ec2 redis 인스턴스 (개발용), elastic cache(배포용) 환경을 구성하여 반복되는 select 요청은 캐시 처리를 두어 데이터베이스 커넥팅을 최소화하였습니다.
-    - 기획서 분석 단계부터 앱 클라이언트, 인증서버 개발 파트와 지속적인 미팅을 통해 미리 api 명세를 작성, 관리하여 전반적으로 효율적인 개발 프로세스를 정립할 수 있었습니다.
+    - jenkins 배포자동화 구축 및 서버인스턴스, 로드밸런서 무중단배포 직접 구현
+    - vpc 서브넷으로 각 서버들의 접근 영역을 명확하게 분리
+    - 인증api서버, 인증웹서버, 서비스 api서버, app서버, 웹서버, jenkins 및 터미널서버 등 기능에 따른 서버를 분리한 MSA의 기본적인 부분 경험
+    - ec2 redis 인스턴스 (개발용), elastic cache(배포용) 환경 구성 및  select 요청 캐시 처리
+    - 기획서 분석 단계부터 앱 클라이언트, 인증서버 개발 파트와 지속적인 미팅을 통해 미리 api 명세 관리, 전반적으로 효율적인 개발 프로세스를 정립
 
 
 
@@ -116,10 +118,13 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
  - 배포환경
     - aws ec2, postgresql
  - 주요 성과
-   - 기존 레거시 서버의 api 엔드포인트 일부를 새로운 서버로 옮기는 작업을 진행했습니다. 매번 앱을 업데이트하기란 불가능했기에 aws API Gateway를 통해 유연하게 api 이전 작업을 진행했습니다.
-   - js 즉시실행함수를 활용한 global scope 변수 선언 방지, 랜더링에 대한 플래그 변수 등등 견고한 프론트엔드를 구성하도록 신경썼으며 backend의 cache 활용 및  frontend의 효율적인 element selector사용으로 구글 page speed insight 속도측정에서 최고 95점 이상을 기록했습니다.
-   - 서비스 콘텐츠의 검색엔진 노출을 위해 각 리스트 페이지의 1페이지만 SSR을 진행했고 다른 부분은 ajax call로 동적 로딩을 구성하였습니다.
-   - java/spring boot로 진행했던 첫 프로젝트이며 개발할 때 특정 언어와 프레임워크가 서비스를 결정짓는 요소가 아니란 것을 경험했습니다. 그동안 python/django로 개발 할 때와 비교해보며 스크립트와 컴파일 언어의 차이를 실제 경험으로 느끼게 되었고 spring과 django의 내부 기능을 비교해보며 서비스 개발에 대한 이해를 높이는 경험을 했습니다.
+   - aws API Gateway를 통한 기존 레거시 서버의 api 엔드포인트 이전 작업
+   - redis 캐시 및 ehcache를 통한 select 자원 최소화
+   - frontend의 효율적인 element selector사용
+   - 구글 page speed insight 속도측정에서 최고 95점 이상을 기록
+   - js 즉시실행함수, global scope 변수 선언 방지, 랜더링에 대한 플래그 변수 등등 견고한 프론트엔드 구성
+   - 서비스 콘텐츠의 검색엔진 노출을 위해 각 리스트 페이지의 1페이지만 SSR을 진행, 다른 부분은 ajax call 동적 로딩 구성
+   - spring과 django의 내부 기능을 비교해보며 서비스 개발에 대한 이해 향상
 
 
 
@@ -136,9 +141,14 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
  - 배포환경
     - aws elastic beanstalk, docker, postgresql
  - 주요 성과
-   - 최우선적으로 ORM의 쿼리 최적화를 진행하였고 캐시를 도입해 상당 부분의 서비스 속도를 개선했습니다. 전반적인 개선 후 상담서비스 리스트 페이지는 약 70% 정도 속도 개선을 이루었고 부하 테스트에서도 약 50% 정도 향상을 이끌었습니다.
-   - admin 및 배치 기능의 서버를 따로 분리하여 필요한 부분의 배포를 독립적으로 이끌었고 dev, live 환경 외에 qa 환경을 두어서 실제 라이브에서 어떻게 동작하는지 테스트 가능하도록 구축했습니다. 그리고 위키를 통한 서버 포지션에 대한 문서화를 진행하였습니다.
-   - api 각 기능에 대한 유닛테스트를 구성하였으며 jenkins를 활용해서 테스트 자동화를 적용했습니다. dev 브랜치 merge 완료 후 자동으로 테스트 빌드를 실행하며 테스트 실패 시 서비스팀 전체에 slack으로 알림을 발송하여 서버 이슈에 대해 공유했습니다. 이후로 반복되는 코드제거 및 타입을 표시한 변수 이름 선언등 가능한 명확한 코드를 작성하는데 시간을 기울였습니다.
+   - ORM의 쿼리 최적화
+   - redis 캐시 기능 적용
+   - admin 및 배치 기능의 서버 분리
+   - dev, qa, live 환경 구축
+   - 위키를 통한 서버 포지션 대한 문서화
+   - api 엔드포인트에 대한 유닛테스트 적용
+   - jenkins 테스트 자동화 기능 추가 (git push -> 테스트 빌드 -> 실패시 슬랙 전체 알림)
+   - 반복되는 코드제거 및 타입을 표시한 변수 이름 선언등 가능한 명확한 코드를 작성
 
 
 
@@ -155,7 +165,12 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
  - 배포환경
     - aws elastic beanstalk, docker, postgresql
  - 주요 성과
-   - 기존 데이터베이스의 마이그레이션 및 새로운 DB 설계를 참여했고 DRF를 활용한 전반적인 서버 api를 담당하였습니다.  aws beanstalk, docker로 배포 진행하였으며 aws sns 서비스를 사용하여 모바일 푸시 서비스를 구성하였으며 celery, redis로 비동기적 태스크를 구성, 대량 발송에 대응하였고 반복되는 루틴의 푸시알림은 admin에서 컨트롤 할 수 있도록 구성하였습니다.
+   - 기존 데이터베이스의 마이그레이션 및 신버전 DB 설계
+   - DRF를 활용한 전반적인 서버 api 개발   
+   - aws sns 서비스를 사용하여 모바일 푸시 서비스를 구성
+   - celery, redis로 비동기적 태스크를 구성, 대량 푸시알림 대응
+   - 반복되는 루틴의 푸시알림은 admin에서 컨트롤 할 수 있도록 구성
+   - celery-beat를 활용한 배치작업 기능 개발
 
 
 
@@ -173,7 +188,9 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
  - 배포환경
     - aws elastic beanstalk, postgresql
  - 주요 성과
-   - 웹사이트 전반을 담당하였습니다. 아임포트를 활용한 결제기능을 도입하였고 소규모 프로젝트였기 때문에 마크업도 담당하였습니다. 사이트 관리자의 편의성을 돕기 위해 이미지 업로드 시 리사이징 기능을 도입했으며 썸네일 라이브러리를 사용하여 초기 로딩을 단축했습니다.
+   - 마크업 포함 웹사이트 전반 개발
+   - 아임포트를 활용한 결제기능을 도입
+   - 이미지 업로드 시 리사이징 기능 및 썸네일 라이브러리를 활용한 초기 로딩 단축
 
 
 
