@@ -6,7 +6,7 @@ CAREER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4년 (2015.11 ~ )
 
 BIRTH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1987.12.21
 
-ADDRESS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서울시 금천구 독산동 한신아파트 8동 204호
+ADDRESS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서울시 금천구 독산동
 
 PHONE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;010-5231-1994
 
