@@ -22,7 +22,7 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
 ### 간략한 자기소개
 
 서비스 개발자 강해석입니다.
-신뢰할 수 있는 task 수행, 경험에 대한 겸손과 존중, 소통하는 문화를 지향합니다.
+신뢰할 수 있는 task 수행, 경험에 대한 겸손과 존중을 지향합니다.
 
 
 
@@ -42,6 +42,7 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
 
 
 ### 개발자로서 중요하게 생각하는 것
+- 책임감
 - 철저한 데드라인 준수
 - 안정적인 서비스 배포 및 운영
 - 긍정적인 커뮤니케이션
@@ -56,7 +57,7 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
 ### 경력 요약
 
 
-2020.09 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;그럼에도&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;개발팀 / 연구원
+2020.09 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;그럼에도&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;개발팀 / 주임 연구원
 
 2018.06 ~ 2020.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;펫닥&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R&D 센터 개발팀 / 매니저
 
@@ -79,18 +80,6 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
 
 
 ### 최근 프로젝트
-
-##### (주)AIOT 홀딩스
-
-e-commerce 서비스 프론트 개발
-
- - 주요 업무
-    - 프론트 마크업 개발
-    - 프론트 event 및 동작제어
- - 개발환경
-    - vuejs, nuxtjs, sass
- - 주요 성과
-    - 프론트 스타일 및 동작 외주 작업
 
 
 ##### (주)펫닥
