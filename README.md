@@ -22,7 +22,7 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
 ### 간략한 자기소개
 
 서비스 개발자 강해석입니다.
-신뢰할 수 있는 task 수행, 경험에 대한 겸손과 존중을 지향합니다.
+무엇보다 사용자에게 더 좋은 서비스를 제공하는 것을 지향합니다.
 
 
 
@@ -43,8 +43,8 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
 
 ### 개발자로서 중요하게 생각하는 것
 - 책임감
-- 철저한 데드라인 준수
 - 안정적인 서비스 배포 및 운영
+- quality를 고려한 일정 산출
 - 긍정적인 커뮤니케이션
 - 효율적인 개발 환경의 구축
 - 반복적인 루틴에 대한 자동화
@@ -82,6 +82,76 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
 ### 최근 프로젝트
 
 
+##### (주) 그럼에도
+
+##### 자체 커머스 런칭, 데이터 마이그레이션 및 frontend, backend 개발
+
+여성 의류 패션 디자이너 편집샵,  Waveby (자체커머스)
+
+- 주요 업무
+  - 데이터베이스 마이그레이션 리드
+  - backend, frontend, frontend-admin 부분 개발
+  - aws cloudwatch 활용한 로그 기능 도입
+  - python script 활용, 이미지 마이그레이션
+  - seller admin 웹 개발 리드
+
+- 개발 환경
+  - python, django, graphql, react, next js, mysql
+
+- 배포 환경
+  - aws ec2, elb, elk, cloudwatch, sentry
+
+- 주요 성과
+  - 기존 고도몰 DB 마이그레이션 및 자사몰 런칭
+  - celery beat 활용한 task 서버 구축 및 스케쥴 캐시 기능 도입
+  - batch 작업을 통한 이미지 마이그레이션 자동화
+  - seller, brand 및 사용자 수 증가
+
+##### (주) 그럼에도
+
+##### Waveby 고도몰 튜닝 및 style markup 개편
+
+여성 의류 패션 디자이너 편집샵,  Waveby (고도몰)
+
+- 주요 업무
+  - 프로젝트 리드 개발
+  - 유튜브, 인스타그램 피드 연동 등 신규 기능 추가
+  - 전체적인 markup style 개선
+  - legacy php backend api endpoint 이전, 속도 개선 (django)
+
+- 개발 환경
+  - php, FTP, mysql, jquery, python, django
+
+- 배포 환경
+  - 고도몰 IDC, aws ec2, RDS
+
+- 주요 성과
+  - api endpoint 이전으로 query 최적화, 속도 향상
+  - legacy front 정리 및 frontend 코드 구조 구축
+
+##### (주) 그럼에도
+
+##### 유커넥 태그 및 크리에이터 매칭 기능 개발
+
+유튜브 인플루언서 매칭 마케팅 플랫폼, 유커넥
+
+- 주요 업무
+  - taggit 라이브러리를 활용한 유커넥 태그 기능 도입
+  - 잠재 크리에이터, 태그 매칭 및 초대 이메일 대량 발송 기능 개발
+  - frontend 개선 및 운영, 유지보수 작업
+  - class component → functional component 전환 작업
+
+- 개발 환경
+  - python, django, javascript, react, mysql
+
+- 배포 환경
+  - aws ec2, elb, rds, docker, gitlab pipline
+
+- 주요 성과
+  - 잠재 크리에이터 태그 및 초대 기능으로 크리에이터 확보 (KPI 조기 달성)
+  - markup style 이미지 animation 처리, 인터랙티브한 front 구성
+
+
 ##### (주)펫닥
 
 ##### 펫닥 맞춤형사료 추천 서비스 구축
@@ -99,7 +169,7 @@ GITHUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/h
  - 배포환경
     - aws ec2, elb, rds
  - 주요 성과
-    - jenkins 배포자동화 구축 및 서버인스턴스, 로드밸런서 무중단배포 직접 구현
+    - jenkins 배포자동화 구축 및 서버인스턴스, 로드밸런서 무중단배포 구현
     - vpc 서브넷으로 각 서버들의 접근 영역을 명확하게 분리
     - 인증api서버, 인증웹서버, 서비스 api서버, app서버, 웹서버, jenkins 및 터미널서버 등 기능에 따른 서버를 분리한 MSA의 기본적인 부분 경험
     - ec2 redis 인스턴스 (개발용), elastic cache(배포용) 환경 구성 및  select 요청 캐시 처리
